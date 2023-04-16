@@ -1,0 +1,7 @@
+FirstName,LastName,Email,Phone,Gender,Status,Profile,Location,DateCreated,DateUpdated
+jod,sffsdsdf,abc@abc.com,1278379287,Male,InActive,image-1680428619375.icons8-user-skin-type-7-48.png,mumbai,Thu Mar 30 2023 01:02:04 GMT+0530 (India Standard Time),Sun Apr 02 2023 03:13:39 GMT+0530 (India Standard Time)
+Dev,test,test@test.com,2897348236,Female,Active,image-1680428535740.man.png,mumbai,Thu Mar 30 2023 01:24:33 GMT+0530 (India Standard Time),Sun Apr 02 2023 03:12:15 GMT+0530 (India Standard Time)
+devOps,team,dev@ops.com,8237732898,Male,Active,image-1680428713565.icons8-male-user-48.png,kerala,Sun Apr 02 2023 03:15:13 GMT+0530 (India Standard Time),-
+client,anonymous,ansj@dijas.com,4323342432,Female,InActive,image-1680428767264.icons8-name-48.png,usa,Sun Apr 02 2023 03:16:07 GMT+0530 (India Standard Time),-
+sde,test,jiasod@iojwq.com,2873342789,Male,Active,image-1680428865926.icons8-customer-64.png,dehradun,Sun Apr 02 2023 03:17:46 GMT+0530 (India Standard Time),-
+test,prod,ahdhs@ajs.com,8721932400,Male,Active,image-1680866517859.icons8-customer-64.png,jhajra,Fri Apr 07 2023 04:51:58 GMT+0530 (India Standard Time),-
